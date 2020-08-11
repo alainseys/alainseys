@@ -1,7 +1,7 @@
 ### Hi there, I'm Alain 👋
 
 ## I'm a Husband, Father, Developer, and Devops Engineer!
-- 🔭 I’m currently working on a sap integration with MSP[wrapper]!
+- 🔭 I’m currently working on a sap integration with MSP [wrapper]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[
+
 [twitter]: https://twitter.com/SeysAlain
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/codejunky88
