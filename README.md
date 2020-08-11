@@ -1,14 +1,13 @@
 ### Hi there, I'm Alain 👋
 
 ## I'm a Husband, Father, Developer, and Devops Engineer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a sap integration with MSP[wrapper]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,9 +40,10 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[
 [twitter]: https://twitter.com/SeysAlain
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/codejunky88
 [linkedin]: https://www.linkedin.com/in/alainseys/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[wrapper]: https://github.com/MultiSafepay/.Net
