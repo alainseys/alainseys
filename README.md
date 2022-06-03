@@ -2,7 +2,6 @@
 
 ## I'm a Husband, Father, Developer, and Devops Engineer!
 - 🔭 OpenSource contributer
-- 🌱 I’m currently learning .net core 🤣
 - 👯 I’m looking to collaborate with other opensource contributers creators
 
 ### Connect with me:
@@ -41,8 +40,6 @@
 
 
 [twitter]: https://twitter.com/SeysAlain
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/codejunky88
 [linkedin]: https://www.linkedin.com/in/alainseys/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [wrapper]: https://github.com/MultiSafepay/.Net
