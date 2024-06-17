@@ -3,6 +3,7 @@
 ## I'm a Husband, Father, Developer, and Devops Engineer!
 - 🔭 OpenSource contributer
 - 👯 I’m looking to collaborate with other opensource contributers creators
+- 🦠 Recently started with Ansible development on Linux , Networking and Windows 
 
 ### Connect with me:
 
@@ -34,6 +35,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Ansible" width="26px" src="https://github.com/ansible/logos/blob/main/stickers/aap/aap-icon-3x3-rounded-red.png?raw=true" />
 
 <br />
 <br />
@@ -42,4 +44,3 @@
 [twitter]: https://twitter.com/SeysAlain
 [instagram]: https://www.instagram.com/codejunky88
 [linkedin]: https://www.linkedin.com/in/alainseys/
-[wrapper]: https://github.com/MultiSafepay/.Net
