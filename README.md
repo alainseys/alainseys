@@ -3,7 +3,8 @@
 ## I'm a Husband, Father, Developer, and Devops Engineer!
 - 🔭 OpenSource contributer
 - 👯 I’m looking to collaborate with other opensource contributers creators
-- 🦠 Recently started with Ansible development on Linux , Networking and Windows 
+- 🦠 Ansible enthousiast
+- 🔨 Linux Rockey Linux 
 
 ### Connect with me:
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
