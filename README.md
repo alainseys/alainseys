@@ -1,6 +1,6 @@
 ### Hi there, I'm Alain 👋
 
-## I'm a Husband, Father, Developer, and Devops Engineer!
+## I'm a Husband, Father, and Devops Engineer!
 - 🔭 OpenSource contributer
 - 👯 I’m looking to collaborate with other opensource contributers creators
 - 🦠 Ansible enthousiast
